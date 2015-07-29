@@ -16,7 +16,7 @@ public/client
 public/lib
 
 # Ignore concat files
-*.concat
+*.concat.*
 
 # Floobits
 .floo
